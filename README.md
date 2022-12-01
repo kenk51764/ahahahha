@@ -1,6 +1,6 @@
 ## Links
 
-[link text](http://dev.nodeca.com)
+[link text](https://i69.top/XWBL)
 ## Images
 
 ![Minion](https://octodex.github.com/images/minion.png)
